@@ -19,8 +19,11 @@ O O
 '''
 print(long_string)
 
-# add two strings together by using '+' sign 
+# String Concatination - add two strings together by using '+' sign 
 first_name = "Satele"
 last_name = "Ephyra"
 full_name = first_name + ' ' + last_name    # quotation in middle acts as a space
 print(full_name)
+
+# can also do it like this:
+print('hello' + ' Satele')    # extra space before 'Satele' to include space between 'hello & 'Satele'   
