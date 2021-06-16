@@ -27,3 +27,6 @@ print(full_name)
 
 # can also do it like this:
 print('hello' + ' Satele')    # extra space before 'Satele' to include space between 'hello & 'Satele'   
+
+# string concatination only work with strings.
+    # print('Satele' + 2) will not work
