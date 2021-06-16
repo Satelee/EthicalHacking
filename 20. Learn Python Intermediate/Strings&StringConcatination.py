@@ -1,4 +1,4 @@
-## Strings ##
+## 164. Strings ##
 # strings are just a piece of text written by placing them in single or double quotation marks
 # can input numbers and special characters as well
 
@@ -19,7 +19,10 @@ O O
 '''
 print(long_string)
 
-# String Concatination - add two strings together by using '+' sign 
+
+## 165. String Concatination ##
+# add two strings together by using '+' sign 
+
 first_name = "Satele"
 last_name = "Ephyra"
 full_name = first_name + ' ' + last_name    # quotation in middle acts as a space
