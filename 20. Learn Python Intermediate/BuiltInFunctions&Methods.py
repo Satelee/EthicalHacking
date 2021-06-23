@@ -28,6 +28,8 @@ print(quote.replace('be', 'me'))
 # strings are immutable, meaning once they are created they cannot be changed. Therefore if we want to print a modified version of quote we need to replace it with a new varaible.
 quote2 = quote.replace('be', 'bee')
 
+# then we would need to print this modified version (quote2) for the changes to be displayed.
 print(quote2)
 
-# then we would need to print this modified version (quote2) for the changes to be displayed.
+# built-in functions: https://docs.python.org/3/library/functions.html
+# built-in string methods: https://www.w3schools.com/python/python_ref_string.asp 
