@@ -43,3 +43,5 @@ r = 0
 while r < len(list3):
     # thinking about it
     pass
+
+    break   # otherwise loop continues forever
